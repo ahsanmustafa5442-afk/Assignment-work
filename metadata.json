@@ -1,0 +1,6 @@
+{
+  "name": "Kashaf Mustafa Academic Writing",
+  "description": "Professional academic assignment support, proofreading, editing, research assistance, reports, and presentations for university and college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

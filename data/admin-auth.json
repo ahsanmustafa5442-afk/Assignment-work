@@ -1,0 +1,11 @@
+{
+  "adminEmail": "KashafMustafa130@gmail.com",
+  "passwordHash": "afddaa25785a9e6e83f508105fa6c489251398d1c1e879185dcfff58d247de200c89729b952ea99018239415f0c570a9061ad5317376f33f07e14b2acdcbb8cf",
+  "salt": "184655485f839d4da89307e9743e35db",
+  "sessions": {
+    "67dc0b0bc9dd1164b395b49e75d4012ad7d66f18d21f3bd5000f55dc5a2d0b55": {
+      "createdAt": "2026-10-18T09:19:27.007Z",
+      "expiresAt": "2026-10-25T09:19:27.007Z"
+    }
+  }
+}
